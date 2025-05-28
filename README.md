@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**TUTTILLO22/TUTTILLO22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hey there! I'm Luis (a.k.a. TUTTILLO22)
+
+
+🧠 Systems engineer with experience in telecommunications, servers, and databases
+🚀 Currently diving into the world of app development with Flutter
+💡 I enjoy learning by doing, building useful stuff, and understanding how things connect
+🔍 Always up for a new challenge (and debugging until it works 😅)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TUTTILLO22&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUTTILLO22&layout=compact)
+
+
+
